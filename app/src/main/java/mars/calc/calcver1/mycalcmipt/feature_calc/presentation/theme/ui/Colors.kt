@@ -1,4 +1,4 @@
-package mars.calc.calcver1.mycalcmipt.presentation.ui.theme
+package mars.calc.calcver1.mycalcmipt.feature_calc.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

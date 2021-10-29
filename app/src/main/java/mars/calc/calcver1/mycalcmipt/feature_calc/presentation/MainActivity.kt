@@ -1,4 +1,4 @@
-package mars.calc.calcver1.mycalcmipt
+package mars.calc.calcver1.mycalcmipt.feature_calc.presentation
 
 
 import androidx.appcompat.app.AppCompatActivity
@@ -9,7 +9,7 @@ import androidx.compose.material.Surface
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import mars.calc.calcver1.mycalcmipt.presentation.ui.theme.CalcAppTheme
+import mars.calc.calcver1.mycalcmipt.feature_calc.presentation.theme.CalcAppTheme
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
